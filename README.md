@@ -1,2 +1,1 @@
-# dhankness.github.io
-My Design Portfolio Website 
+# dhankness.github.io Portfolio Website 
